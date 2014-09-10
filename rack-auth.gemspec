@@ -5,7 +5,7 @@ require 'rack/oauth2/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "rack-auth"
-  spec.version       = Rack::Oauth2::VERSION
+  spec.version       = "0.0.1"
   spec.authors       = ["Nathaniel Symer"]
   spec.email         = ["nate@natesymer.com"]
   spec.summary       = "Rackish authentication for Rack apps."
